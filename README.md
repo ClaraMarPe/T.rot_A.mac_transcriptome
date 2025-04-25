@@ -1,5 +1,5 @@
 # Metatranscriptome processing pipeline for _T. rotula_ and _A. macleodii_ co-culture experiments
-This repository contains a set of scripts used to process RNA-seq reads from co-culture experiments between _Thalassiosira rotula_ (strain) and _Alteromonas macleodii_ (strain). The pipeline spans from raw reads to rRNA removal, mapping to reference genomes (or de novo assembled transcriptomes), and preparation for downstream analyses.<br>
+This repository contains a set of scripts used to process RNA-seq reads from co-culture experiments between _Thalassiosira rotula_ CCMP3096 and _Alteromonas macleodii_ ATCC 27126. The pipeline spans from raw reads to rRNA removal, mapping to reference genomes (or de novo assembled transcriptomes), and preparation for downstream analyses.<br>
 This repository accompanies the manuscript:<br>
 "_Alteromonas macleodii_ induces protoplast withdrawal from the silica cell wall and necrotic cell death to feed on the oceanic _Thalassiosira rotula diatom_"<br>
 **Authors:** Isobel Short, Clara Martínez-Pérez, Roman Stocker, Uria Alcolombri
@@ -23,5 +23,5 @@ The steps include the following:
 Differential Expression Analysis (performed in R) is available in a separate repository
 
 ## Data availability:
-Raw reads and de novo transcriptome assembly are deposited and available in the European Nucleotide Archive (ENA), project accession: PRJXXXXXXX
-Reference genome of A. macleodii is available under the accession 
+Raw reads and de novo transcriptome assembly are deposited and available in the European Nucleotide Archive (ENA), project accession: PRJEB72406
+Reference genome of _A. macleodii_ ATCC 27126 is available under the GenBank accession number CP003841.1.
