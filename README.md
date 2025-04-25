@@ -23,5 +23,5 @@ The steps include the following:
 Differential Expression Analysis (performed in R) is available in a separate repository
 
 ## Data availability:
-Raw reads and de novo transcriptome assembly are deposited and available in the European Nucleotide Archive (ENA), project accession: PRJEB72406
+Raw reads and de novo transcriptome assembly are deposited and available in the European Nucleotide Archive (ENA), project accession: PRJEB72406.<br>
 Reference genome of _A. macleodii_ ATCC 27126 is available under the GenBank accession number CP003841.1.
