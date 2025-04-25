@@ -15,7 +15,7 @@ The steps include the following:
 02. Sequential mapping to ribosomal RNA databases for rRNA removal 
 03. Read alignment to the A.macleodii reference genome, and generation of a transcript count table 
 04. Pre-processing of reads for de-novo assembly: normalization of reads that did not map map to A. macleodii 
-05. Assembly of non-A.macleodii reads (with metaSPAdes)
+05. Assembly of non-A.macleodii reads (with rnaSPAdes)
 06. Open Reading Frame (ORF) prediction (using Transdecoder), followed by assembly evaluation
 07. ORF annotation, using available reference datasets 
 08. Read alignment to the assembled T.rotula transcriptome, and generation of a transcript count table
